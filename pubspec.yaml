@@ -4,7 +4,7 @@ description: >
   Supports progress tracking, automatic MIME detection, and returns the uploaded file URL.
 
 version: 1.0.0
-homepage: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package.git
+homepage: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package/blob/main/example/cloudflare_r2_uploader_example.dart
 repository: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package.git
 issue_tracker: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package/issues
 
