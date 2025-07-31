@@ -1,0 +1,23 @@
+name: cloudflare_r2_uploader
+description: >
+  A Dart package for uploading files to Cloudflare R2 using AWS Signature Version 4.
+  Supports progress tracking, automatic MIME detection, and returns the uploaded file URL.
+
+version: 1.0.0
+homepage: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package.git
+repository: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package.git
+issue_tracker: https://github.com/SaiAshirwadInformatia/cloudflare-r2-uploader-package/issues
+
+
+environment:
+  sdk: ^3.8.1
+
+# Add regular dependencies here.
+dependencies:
+  http: ^1.4.0
+  crypto: ^3.0.6
+  mime: ^2.0.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
